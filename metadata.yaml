@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4037'
     url: http://www.gutenberg.org/2009/agents/4037
     wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
+covers:
+- cover_type: archival
+  image_path: 54033-h/images/cover.jpg
 creator:
   authors:
   - agent_name: McNeely, Marian Hurd
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '47664'
     url: http://www.gutenberg.org/2009/agents/47664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54033#When-She-Came-Home-from-College
 gutenberg_issued: '2017-01-20'
 gutenberg_type: Text
 identifiers:
